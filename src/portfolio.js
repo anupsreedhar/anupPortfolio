@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://docs.google.com/document/d/1sI4bOv-zEDID-QpqtorEOAPCN1TkD_I4/edit?usp=drive_link&ouid=104581967806546053007&rtpof=true&sd=true",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/anupsreedhar/anupPortfolio",
   githubProfile: "https://github.com/anupsreedhar",
 };
 
@@ -320,7 +320,7 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://leetcode.com/anupsreedhar/",
     },
     {
       siteName: "HackerRank",
@@ -328,7 +328,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.hackerrank.com/anup_sreedhar",
     },
     {
       siteName: "Codechef",
@@ -336,7 +336,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://www.codechef.com/users/anupsreedhar",
     },
     {
       siteName: "Codeforces",
@@ -344,7 +344,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "http://codeforces.com/profile/layman_brother",
+      profileLink: "http://codeforces.com/profile/anupsreedhar",
     },
     {
       siteName: "Hackerearth",
@@ -352,7 +352,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "https://www.hackerearth.com/@anup.sreedhaar",
     },
     {
       siteName: "Kaggle",
@@ -360,7 +360,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://www.kaggle.com/anupsreedharan",
     },
   ],
 };
